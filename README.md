@@ -23,4 +23,4 @@ Los ejercicios están diseñados para practicar la lógica de programación y la
 Para cualquier sugerencia, duda o comentario, no dudes en contactarme directamente por correo electrónico: [ferreroderay@gmail.com](mailto:ferreroderay@gmail.com).
 
 ## Certificación
-![Certificado](Certificado-Fundamentos-de-la-Programación-UTNBA.pdf)
+[Certificado](Certificado-Fundamentos-de-la-Programación-UTNBA.pdf)
